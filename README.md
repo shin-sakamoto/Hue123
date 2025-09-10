@@ -20,17 +20,26 @@ Windows)
 ./jave.exe -jar ./Hue123.jar
 Mac)
 sudo ./jave.exe -jar ./Hue123.jar
+(If you don't use [Coming Home], no need [sudo])
 
 Please push the button on the Hue bridge at the first sceen.
 
 Please dim the light to the 1% for testing.
 
 -------------------------(日本語/Japanese)----------------------------------------------
-Hue App 再点灯対策アプリ
-
+Hue App アプリ
+1)再点灯対策機能
 Hueランプの輝度が1%になったら自動で消灯するプログラムです。
 不明点があったらXで@OneHuefan147187に質問してください。
 
+2)帰宅時自動点灯
+帰宅オートメーションの補助で指定携帯がWiFiに接続されたのを
+検知してシーンを自動点灯します
+
+3)設定の保存、自動再設定 開発中です
+ランプのシリアル番号の入力が必須です
+
+インストール方法)
 右上の[Code]->[Download Zip]->Zipファイルを解凍
 
 JDKインストールが必須です。
@@ -48,6 +57,7 @@ C:\(JDKインストールフォルダ)\org.eclipse.justj.openjdk.hotspot.jre.ful
 Mac)
 ターミナルで
 sudo (JDKインストールフォルダ)\bin\java.exe -jar .\Hue123.jar
+(帰宅時自動点灯を使わないならsudoはなくても問題ありません)
 
 最初の画面(メッセージがなぜか出ないです)でブリッジのボタンを押してください。
 
