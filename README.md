@@ -1,4 +1,31 @@
 # Hue123
+----------------------------(English)----------------------------------------------
+Hue App for Win/Mac
+
+It will off the lamp automatically if it is 1% dimming level.
+If you are concerning with unwanted lit after you turn off,
+please configure the [Hue App]->[Setting]->[Device]->[Light]->your light->[Power on]->[Custom]->1% dimming level and low-profile color.
+Then the app will turn off unwanted lit.
+
+Please feel free to ask the question for X @OneHuefan147187
+
+Upper right green [Code]->[Download Zip]->unzip file
+
+JDK is needed.Download and install.
+https://www.oracle.com/java/technologies/downloads/
+
+Copy the Hue.jar to the folder of Jave.exe.
+And 
+Windows)
+./jave.exe -jar ./Hue123.jar
+Mac)
+sudo ./jave.exe -jar ./Hue123.jar
+
+Please push the button on the Hue bridge at the first sceen.
+
+Please dim the light to the 1% for testing.
+
+-------------------------(日本語/Japanese)----------------------------------------------
 Hue App 再点灯対策アプリ
 
 Hueランプの輝度が1%になったら自動で消灯するプログラムです。
@@ -10,7 +37,7 @@ JDKインストールが必須です。
 https://www.oracle.com/java/technologies/downloads/
 JDKをダウンロードしてインストールしてください。
 
-Java.exeファイルがあるフォルダを指定してjave.exe -jar Hue123.jar
+Java.exeファイルがあるフォルダにHue.jarをコピーしてjave.exe -jar Hue123.jar
 とするとアプリが起動します。
 
 通常は以下のように起動します。
