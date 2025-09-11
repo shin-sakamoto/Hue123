@@ -2,13 +2,22 @@
 ----------------------------(English)----------------------------------------------
 Hue App for Win/Mac
 
+Please feel free to ask the question for X @OneHuefan147187
+
+1) Workaround for unwanted lit
 It will off the lamp automatically if it is 1% dimming level.
 If you are concerning with unwanted lit after you turn off,
 please configure the [Hue App]->[Setting]->[Device]->[Light]->your light->[Power on]->[Custom]->1% dimming level and low-profile color.
 Then the app will turn off unwanted lit.
+2) Support for Coming home automation
+It will turn on the scene when the target device is connected to the same WiFi network.
+* need root priviledge for Mac OS to scan network, need [sudo] on command line for the function
+3) Remove/Save/Load configuration - Under construction
+Save all rooms/zones/lights/scens
+Remove all rooms/zones/lights/scens at once
+Load all rooms/zones/lights/scens
 
-Please feel free to ask the question for X @OneHuefan147187
-
+Install)
 Upper right green [Code]->[Download Zip]->unzip file
 
 JDK is needed.Download and install.
