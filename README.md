@@ -39,7 +39,7 @@ Click [?] to check the current setting.
 
 
 
-3) Remove/Save/Load configuration
+3) Remove/Save/Load configuration (Only create room and assign lamp and change lamp name now.)
 
 [Delete Bridge Info]  !! Delete all lamps and scenes from memory of the bridge !!
 
@@ -119,7 +119,7 @@ Hueランプの輝度が1%になったら自動で消灯するプログラムで
 
 
 
-3)設定の保存、自動再設定
+3)設定の保存、自動再設定 (部屋の作成、ランプの配置、ランプの名前変更だけです。シーン未対応)
 
 [Delete Bridge Info]  !! ブリッジ情報をクリアします。部屋、ランプ、シーンが削除されます。 !!
 
