@@ -5,7 +5,7 @@ Hue App for Win/Mac
 
 Please feel free to ask the question for X @OneHuefan147187
 
-1) Workaround for unwanted lit
+Function.1) Workaround for unwanted lit
 
 It will off the lamp automatically if brightness is 1%.
 
@@ -19,7 +19,7 @@ The function is always enabled while the Hue123 is launched.
 If you want to disable the function, [Setting]->[Check Every [X] milliseconds], set value 0(Zero)
 
 
-2) Support for Coming home automation
+Function.2) Support for Coming home automation
 
 It will turn on the scene when the target device is connected to the same WiFi network.
 
@@ -39,7 +39,7 @@ Click [?] to check the current setting.
 
 
 
-3) Remove/Save/Load configuration (Only create room and assign lamp and change lamp name now.)
+Function.3) Remove/Save/Load configuration (Now it only create rooms and scenes and assign lamps and change nameof lamps. Now developping for automation and smart scene)
 
 [Delete Bridge Info]  !! Delete all lamps and scenes from memory of the bridge !!
 
@@ -85,7 +85,7 @@ Please dim the light to the 1% for testing.
 Hue123 アプリ
 
 
-1)再点灯対策機能
+機能 1)再点灯対策機能
 
 Hueランプの輝度が1%になったら自動で消灯するプログラムです。
 
@@ -99,7 +99,7 @@ Hueランプの輝度が1%になったら自動で消灯するプログラムで
 ＰＣの性能に応じてチェック間隔を調整してください。
 
 
-2)帰宅時自動点灯
+機能 2)帰宅時自動点灯
 
 帰宅オートメーションの補助で指定携帯がWiFiに接続されたのを検知してシーンを自動点灯します
 
@@ -119,7 +119,7 @@ Hueランプの輝度が1%になったら自動で消灯するプログラムで
 
 
 
-3)設定の保存、自動再設定 (部屋の作成、ランプの配置、ランプの名前変更だけです。シーン未対応)
+機能 3)設定の保存、自動再設定 (部屋の作成、ランプの配置、ランプの名前変更、シーン作成までです。一日中シーン、オートメーションは対応中)
 
 [Delete Bridge Info]  !! ブリッジ情報をクリアします。部屋、ランプ、シーンが削除されます。 !!
 
