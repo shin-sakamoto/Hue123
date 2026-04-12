@@ -1,7 +1,7 @@
 # Hue123
 ----------------------------(English)----------------------------------------------
 
-Hue App for Win/Mac
+Philips Hue Application for Win/Mac to backup and restore lights and scenes.
 
 Please feel free to ask the question for X @OneHuefan147187
 
@@ -39,7 +39,7 @@ Click [?] to check the current setting.
 
 
 
-Function.3) Remove/Save/Load configuration (Now it only create rooms and scenes and assign lamps and change nameof lamps. Now developping for automation and smart scene)
+Function.3) Remove/Save/Load configuration (Now it can backup and restore Rooms and Lights and Scenes and Automations(Timer, Sustom))
 
 [Delete Bridge Info]  !! Delete all lamps and scenes from memory of the bridge !!
 
@@ -82,7 +82,7 @@ Please dim the light to the 1% for testing.
 不明点があったらXで@OneHuefan147187に質問してください。
 
 
-Hue123 アプリ
+Hue123 アプリ PHILIPS Hue ブリッジ情報の保存/復元
 
 
 機能 1)再点灯対策機能
@@ -119,7 +119,7 @@ Hueランプの輝度が1%になったら自動で消灯するプログラムで
 
 
 
-機能 3)設定の保存、自動再設定 (部屋の作成、ランプの配置、ランプの名前変更、シーン作成までです。一日中シーン、オートメーションは対応中)
+機能 3)設定の保存、自動再設定 (部屋の作成、ランプ配置、ランプ名前変更、シーン作成、オートメーション(カスタム,タイマーのみ) 一日中シーン、エンターテインメントエリアは未対応)
 
 [Delete Bridge Info]  !! ブリッジ情報をクリアします。部屋、ランプ、シーンが削除されます。 !!
 
